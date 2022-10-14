@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarasa15 also you can find me on different platforms as @alantechcod or as Alan Torres
 - 👀 I’m interested in Motorcycles, Cars, VideoGames and IT related Jokes
-- 🌱 I’m currently learning Python(Panda and Numpy) to increase my skills on Data Analytics
+- 🌱 I’m currently learning Python(Pandas) to increase my knowledge on Data Analytics
 - 📫 How to reach me . By Dm or Email at alantechcod@gmail.com
 
 <!---
